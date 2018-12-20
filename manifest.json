@@ -1,11 +1,11 @@
 {
   "name": "Radio Uoviral",
-  "short_name": "radio ",
+  "short_name": "Radio maroc ",
   "start_url": "https://radio.uoviral.com",
   "display": "standalone",
-  "background_color": "#3367D6",
+  "background_color": "#fff",
   "theme_color": "#3367D6",
-  "description": "A simply readable Hacker News app.",
+  "description": "radio maroc.",
   "gcm_sender_id": "781919597156",
   "icons": [
     {
