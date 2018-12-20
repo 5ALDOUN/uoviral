@@ -1,0 +1,42 @@
+{
+  "name": "Radio Uoviral",
+  "short_name": "radio ",
+  "start_url": "https://radio.uoviral.com",
+  "display": "standalone",
+  "background_color": "#3367D6",
+  "theme_color": "#3367D6",
+  "description": "A simply readable Hacker News app.",
+  "gcm_sender_id": "781919597156",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/-ccPYTEQF8ck/XBlMpgq_trI/AAAAAAAAKWc/1HKHznYb5rMv8VxptTPXhFNl6DzPkyyOwCEwYBhgL/w48-h48-p/unnamed.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-ccPYTEQF8ck/XBlMpgq_trI/AAAAAAAAKWc/1HKHznYb5rMv8VxptTPXhFNl6DzPkyyOwCEwYBhgL/w48/unnamed.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-ccPYTEQF8ck/XBlMpgq_trI/AAAAAAAAKWc/1HKHznYb5rMv8VxptTPXhFNl6DzPkyyOwCEwYBhgL/w48/unnamed.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-ccPYTEQF8ck/XBlMpgq_trI/AAAAAAAAKWc/1HKHznYb5rMv8VxptTPXhFNl6DzPkyyOwCEwYBhgL/w144/unnamed.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-ccPYTEQF8ck/XBlMpgq_trI/AAAAAAAAKWc/1HKHznYb5rMv8VxptTPXhFNl6DzPkyyOwCEwYBhgL/w168/unnamed.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/-ccPYTEQF8ck/XBlMpgq_trI/AAAAAAAAKWc/1HKHznYb5rMv8VxptTPXhFNl6DzPkyyOwCEwYBhgL/w192/unnamed.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
