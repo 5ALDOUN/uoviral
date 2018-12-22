@@ -3,7 +3,7 @@
   "short_name": "Radio Maroc",
   "lang": "ar",
   "start_url": "/",
-  "display": "fullscreen",
+  "display": "standalone",
   "theme_color": "linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);",
    "background_color": "#fff",
   "icons": [
