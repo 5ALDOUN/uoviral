@@ -6,7 +6,7 @@
   "background_color": "#fff",
   "theme_color": "#3367D6",
   "description": "radio maroc.",
-  "gcm_sender_id": "781919597156",
+  "gcm_sender_id": "539876079581",
   "icons": [
     {
       "src": "https://lh3.googleusercontent.com/-ccPYTEQF8ck/XBlMpgq_trI/AAAAAAAAKWc/1HKHznYb5rMv8VxptTPXhFNl6DzPkyyOwCEwYBhgL/w48-h48-p/unnamed.png",
@@ -38,17 +38,5 @@
       "sizes": "192x192",
       "type": "image/png"
     }
-  ],
-    "name": "Ww46 Push Notification",
-    "short_name": "ww46",
-    "gcm_sender_id": "539876079581",
-    "start_url": "/",
-    "display": "standalone",
-    "icons": [
-        {
-            "src": "https://cdn.pushalert.co/img/pushalert-square-icon.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        }
-    ]
+  ]
 }
