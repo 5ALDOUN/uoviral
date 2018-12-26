@@ -6,6 +6,8 @@
   "display": "standalone",
   "theme_color": "linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);",
    "background_color": "#fff",
+  "gcm_sender_id": "482941778795",
+  "gcm_sender_id_comment": "Do not change the GCM Sender ID",
   "icons": [
     {
       "src": "https://lh3.googleusercontent.com/-ccPYTEQF8ck/XBlMpgq_trI/AAAAAAAAKWc/1HKHznYb5rMv8VxptTPXhFNl6DzPkyyOwCEwYBhgL/w512/unnamed.png",
