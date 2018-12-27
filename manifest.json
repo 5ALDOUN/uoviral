@@ -2,7 +2,7 @@
   "name": "Radio Uoviral",
   "short_name": "Radio Maroc",
   "lang": "ar",
-  "start_url": "/",
+  "start_url": "https://radio.uoviral.com/",
   "display": "standalone",
   "theme_color": "#6776d1",
    "background_color": "#fff",
