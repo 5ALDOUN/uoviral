@@ -4,7 +4,7 @@
   "lang": "ar",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB);",
+  "theme_color": "#6776d1",
    "background_color": "#fff",
   "gcm_sender_id": "482941778795",
   "gcm_sender_id_comment": "Do not change the GCM Sender ID",
